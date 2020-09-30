@@ -6,11 +6,11 @@ If you know how to run npm , then there is one Useful script .
 
 # But first , do:
 
-npm install website-scraper
+$ npm install website-scraper
 
 # And in that directory run
 
-node index.js
+$ node index.js
 
 This takes some time. So be patient and if everything goes well, you will get a message in your console:
 

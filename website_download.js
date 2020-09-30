@@ -1,5 +1,5 @@
 const scrape = require('website-scraper'); 
-const websiteUrl = 'https://toxsl.com/'; 
+const websiteUrl = 'https://websitname.com/'; 
  
 scrape({ 
     urls: [websiteUrl], 

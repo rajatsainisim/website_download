@@ -6,7 +6,7 @@ If you know how to run npm , then there is one Useful script .
 
 # But first , do:
 
-$ npm install website-scraper
+<code> npm install website-scraper </code>
 
 # And in that directory run
 

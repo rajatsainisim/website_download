@@ -10,7 +10,7 @@ $ npm install website-scraper
 
 # And in that directory run
 
-$ node index.js
+<code> node index.js </code>
 
 This takes some time. So be patient and if everything goes well, you will get a message in your console:
 
